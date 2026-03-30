@@ -73,6 +73,7 @@ npm run dev
 4. Open
 
 - http://localhost:5173
+- https://sal-brasa-landingpage.vercel.app/
 
 ---
 
@@ -203,6 +204,7 @@ npm run dev
 4. Abra
 
 - http://localhost:5173
+- https://sal-brasa-landingpage.vercel.app/
 
 ---
 
